@@ -3,8 +3,8 @@
 class Lab1_2
 {
 public:
-	Lab1_2(void);
-	~Lab1_2(void);
-	SomeMethod();
-	int SomeField;
+	Lab1_2(void);// конструктор
+	~Lab1_2(void);// деструктор
+	int SomeMethod();// метод
+	int SomeField;// поле
 };
